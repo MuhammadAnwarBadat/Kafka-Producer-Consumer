@@ -83,6 +83,12 @@ This script continuously listens for new messages on the specified topic and log
 
 Contributions to this project are welcome! Please fork the repository and submit pull requests with your enhancements.
 
+### Resources
+
+[text](https://gist.github.com/piyushgarg-dev/32cadf6420c452b66a9a6d977ade0b01)
+
+[text](https://youtu.be/ZJJHm_bd9Zo?si=H9ap11yr05ONqyHW)
+
 ### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
