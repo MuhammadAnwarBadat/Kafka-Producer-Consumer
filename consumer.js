@@ -1,8 +1,8 @@
 // Import the Kafka client instance from the client module
 const { kafka } = require("./client");
 
-// Get the consumer group ID from the command-line argument
-const groupId = 'rider-group';  // Replace 'rider-group' with your desired group name
+// Get the consumer group ID from the command-line argument, or use a default groupId
+const group = process.argv[2] || 'default-group';  // Provide a default groupId if none is passed
 
 // Asynchronous function to initialize the Kafka consumer
 async function init() {
