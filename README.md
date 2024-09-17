@@ -85,9 +85,9 @@ Contributions to this project are welcome! Please fork the repository and submit
 
 ### Resources
 
-[text](https://gist.github.com/piyushgarg-dev/32cadf6420c452b66a9a6d977ade0b01)
+(https://gist.github.com/piyushgarg-dev/32cadf6420c452b66a9a6d977ade0b01)
 
-[text](https://youtu.be/ZJJHm_bd9Zo?si=H9ap11yr05ONqyHW)
+(https://youtu.be/ZJJHm_bd9Zo?si=H9ap11yr05ONqyHW)
 
 ### License
 
