@@ -2,7 +2,7 @@
 const { kafka } = require("./client");
 
 // Get the consumer group ID from the command-line argument
-const group = process.argv[2];
+const groupId = 'rider-group';  // Replace 'rider-group' with your desired group name
 
 // Asynchronous function to initialize the Kafka consumer
 async function init() {
